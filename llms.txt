@@ -1,0 +1,35 @@
+# Origen Ganadero
+
+> Origen Ganadero is an El Salvador based company rebuilding the country's cattle industry. It connects ranchers, institutions, and partners with elite genetics, technical expertise, and project leadership to build a cattle industry that is productive, profitable, and resilient.
+
+## About
+Origen Ganadero works as a connector and facilitator of El Salvador's cattle sector, in partnership with the Ministry of Agriculture (Ministerio de Agricultura y Ganadería). The company imports proven cattle genetics (from the United States, primarily Texas), provides technical assistance and training in breeding and regenerative ranching, and leads the projects and partnerships needed to rebuild a once-strong national herd. It is co-founded by Andrea Hernández Tobar and Tom Taber, and is based in El Salvador. Its guiding principles are that the industry must be productive, profitable, and resilient, and that food security is national security.
+
+## What it does
+- Imports elite cattle genetics (breeding straws and live stock) suited to a tropical climate
+- Provides technical assistance and training to ranchers, alongside the Ministry of Agriculture
+- Leads project management, partnerships, and delivery for serious cattle initiatives
+- Helps lay the groundwork for local processing and infrastructure toward national supply
+
+## What it does not do
+- It does not seek to be "the face" of the sector; it acts as a humble facilitator and catalyst
+- It does not focus on capturing market share; it focuses on moving the whole industry forward
+- It does not export beef yet; the first priority is to feed El Salvador
+
+## Who it serves
+- The Ministry of Agriculture of El Salvador (founding partner)
+- Salvadorans returning home who own land and want to build
+- Investors and partners bringing capital and expertise
+- Ranchers across El Salvador, reached through the Ministry and the company's network
+
+## People
+- Andrea Hernández Tobar, Co-founder: ~20 years in international development across Latin America, Africa, and the Middle East; project leadership and a producer-as-business philosophy.
+- Tom Taber, Co-founder: native Texan from a ranching family, former enterprise-technology executive; brings the network and the cattle-genetics connections.
+
+## Values
+Built on the values of sound money, freedom, and self-sovereignty.
+
+## Links
+- [Website (EN)](https://origenganadero.com/)
+- [Website (ES)](https://origenganadero.com/es/)
+- [Full content](https://origenganadero.com/llms-full.txt)

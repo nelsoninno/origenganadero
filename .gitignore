@@ -1,0 +1,13 @@
+_source/
+_prototype-genetics-sim/
+brand/
+brand_documents_do_not_upload_to_github/
+CLAUDE.md
+.DS_Store
+Thumbs.db
+*.zip
+*.ai
+*.eps
+*.pptx
+*do_not_upload*
+_*.png

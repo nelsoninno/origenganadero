@@ -1,0 +1,27 @@
+/* assets/css/tokens.css — COLORS + FONTS only. The single source of truth.
+   Edit this one file to re-skin the whole site (EN + ES stay in sync). */
+:root{
+  /* Brand palette — "premium dark chocolate" with cream text + a subtle ember-orange accent */
+  --bg:        #1A130D;   /* page background (dark chocolate)  */
+  --bg-deep:   #120C07;   /* deeper bands / footer            */
+  --surface:   #241A12;   /* cards                            */
+  --surface-2: #2E2118;   /* raised cards / hover             */
+  --ink:       #F2E8D5;   /* headings (cream — matches logo)  */
+  --body:      #E4D8C3;   /* body text                        */
+  --muted:     #B6A488;   /* secondary text                   */
+  --line:      #3A2C20;   /* hairlines / borders              */
+  --accent:    #C8632B;   /* primary accent — ember orange    */
+  --accent-2:  #E0843B;   /* accent hover / highlight         */
+  --green:     #6FA03C;   /* nature accent (from the logo), used sparingly */
+
+  /* Footer credit colors (read by the EKY credit logo — see footer-credit.md) */
+  --footer-bg: var(--bg-deep);
+  --footer-fg: #F2E8D5;
+
+  /* Fonts — Fraunces (editorial serif, premium) + Inter (clean, full Spanish glyphs) */
+  --font-display: 'Fraunces', Georgia, 'Times New Roman', serif;
+  --font-body:    'Inter', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+
+  /* Layout */
+  --max: 1140px;
+}
