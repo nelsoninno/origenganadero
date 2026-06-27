@@ -301,5 +301,5 @@ section{position:relative}
 }
 
 /* hero brand logo badge (full-color logo on a white rim) */
-.hero-logo{display:block;width:clamp(134px,15vw,170px);background:#FBF7EF;padding:14px 16px;border-radius:16px;margin:0 0 1.6rem;box-shadow:0 14px 34px rgba(0,0,0,.42)}
-@media (max-width:560px){.hero-logo{width:118px;padding:11px 13px;margin-bottom:1.2rem}}
+.hero-logo{display:block;width:clamp(160px,18vw,220px);margin:0 0 1.6rem}
+@media (max-width:560px){.hero-logo{width:150px;margin-bottom:1.2rem}}
