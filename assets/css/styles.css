@@ -292,4 +292,14 @@ section{position:relative}
 .decor--herd-l{left:0;bottom:0;width:clamp(320px,36vw,580px);opacity:.5}
 .decor--ranch-r{right:0;bottom:0;width:clamp(380px,46vw,760px);opacity:.5}
 .decor--fence{left:0;width:100%;bottom:30%;opacity:.4}
-@media (max-width:1000px){.decor{display:none}}
+@media (max-width:1000px){
+  .band--decor{display:flex;flex-direction:column}
+  .band--decor > .wrap{order:1}
+  .decor{display:block;position:static;order:2;left:auto;right:auto;bottom:auto;transform:none;
+    margin:1.6rem auto 0;width:min(76vw,340px);opacity:.55}
+  .decor--fence{width:min(92vw,520px);margin-top:1.3rem}
+}
+
+/* hero brand logo badge (full-color logo on a white rim) */
+.hero-logo{display:block;width:clamp(134px,15vw,170px);background:#FBF7EF;padding:14px 16px;border-radius:16px;margin:0 0 1.6rem;box-shadow:0 14px 34px rgba(0,0,0,.42)}
+@media (max-width:560px){.hero-logo{width:118px;padding:11px 13px;margin-bottom:1.2rem}}
