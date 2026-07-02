@@ -94,7 +94,7 @@ document.querySelectorAll('.compare').forEach(function (c) {
 (function () {
   var SVGNS = 'http://www.w3.org/2000/svg';
   var AR = [[58, 37], [62, 48], [57, 58], [54, 65], [62, 72], [59, 81], [60, 90]];
-  var ES = [[43, 26], [41, 45], [43, 59], [45, 71], [46, 85]];
+  var ES = [[42, 46], [42, 56], [43, 66], [45, 76], [46, 86]];
   function draw() {
     document.querySelectorAll('.compare').forEach(function (c) {
       var frame = c.querySelector('.compare__frame');
