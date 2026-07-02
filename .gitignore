@@ -11,3 +11,5 @@ Thumbs.db
 *.pptx
 *do_not_upload*
 _*.png
+signal-*.png
+*.jpeg

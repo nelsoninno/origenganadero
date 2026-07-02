@@ -269,7 +269,7 @@ section{position:relative}
 .ctag--right{right:.7rem;text-align:left;border-color:rgba(200,99,43,.55)}
 .ctag--left{left:.7rem;text-align:right;border-color:var(--line)}
 .ctag--ar1{top:33%}.ctag--ar2{top:42%}.ctag--ar3{top:51%}.ctag--ar4{top:60%}.ctag--ar5{top:69%}.ctag--ar6{top:78%}.ctag--ar7{top:87%}
-.ctag--es1{top:78%}.ctag--es2{top:87%}
+.ctag--es1{top:40%}.ctag--es2{top:52%}.ctag--es3{top:64%}.ctag--es4{top:76%}.ctag--es5{top:88%}
 .compare__leaders{position:absolute;inset:0;width:100%;height:100%;overflow:visible;pointer-events:none}
 .compare__leaders polyline{fill:none;stroke:var(--ink);stroke-width:1.6;vector-effect:non-scaling-stroke;
   stroke-linejoin:round;stroke-linecap:round;opacity:.9}
