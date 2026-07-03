@@ -311,3 +311,11 @@ section{position:relative}
   .hero-logo{grid-column:1;grid-row:auto;width:min(78vw,380px);margin:0 auto .4rem}
 }
 
+
+/* ---------- value-chain strip (roadmap) ---------- */
+.chain{margin-top:3rem;padding-top:1.9rem;border-top:1px solid var(--line)}
+.chain__label{font-family:var(--font-body);text-transform:uppercase;letter-spacing:.16em;font-size:.72rem;font-weight:700;color:var(--accent);display:block}
+.chain__row{display:flex;flex-wrap:wrap;align-items:center;gap:.4rem 1rem;list-style:none;padding:0;margin-top:1.1rem}
+.chain__row li{font-family:var(--font-display);color:var(--ink);font-size:clamp(1rem,1.7vw,1.2rem);display:flex;align-items:center;gap:.9rem;line-height:1.2}
+.chain__row li:not(:last-child)::after{content:"\2192";color:var(--accent);font-family:var(--font-body);font-size:1.05rem}
+@media (max-width:560px){.chain__row li{font-size:1.02rem;gap:.7rem}}
