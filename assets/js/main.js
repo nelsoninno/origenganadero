@@ -133,3 +133,15 @@ document.querySelectorAll('.compare').forEach(function (c) {
   setTimeout(draw, 300); setTimeout(draw, 900);
   draw();
 })();
+
+
+// Value-chain interactive steps
+document.querySelectorAll('.chain').forEach(function (ch) {
+  var steps = ch.querySelectorAll('.chain__step');
+  var descs = ch.querySelectorAll('.chain__desc');
+  function activate(i) {
+    steps.forEach(function (s, j) { var on = j === i; s.classList.toggle('is-active', on); s.setAttribute('aria-pressed', on ? 'true' : 'false'); });
+    descs.forEach(function (d, j) { d.classList.toggle('is-active', j === i); });
+  }
+  steps.forEach(function (s, i) { s.addEventListener('click', function () { activate(i); }); });
+});

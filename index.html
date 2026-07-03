@@ -166,7 +166,7 @@
       <img class="hero-logo" src="assets/images/logos/og-logo-mix-cream.svg" alt="Origen Ganadero logo" fetchpriority="high">
       <span class="eyebrow">El Salvador · Cattle Industry</span>
       <h1>A stronger cattle industry for a stronger <span class="accent">nation</span>.</h1>
-      <p class="hero__sub">We connect El Salvador's ranchers, institutions, and strategic partners with world-class genetics, deep industry expertise, and experienced program leadership to support the transformation of a cattle industry that is productive, profitable, and resilient.</p>
+      <p class="hero__sub">We connect El Salvador's ranchers, institutions, and strategic partners with world-class genetics, deep industry expertise, and experienced program leadership to help transform the country's cattle industry into one that is more productive, profitable, and resilient.</p>
       <div class="hero__cta">
         <a class="btn btn--primary" href="#connect">Connect with us <span class="arrow">→</span></a>
         <a class="btn btn--ghost" href="#what">What we do</a>
@@ -367,14 +367,24 @@
         </div>
       </div>
       <div class="chain reveal">
-        <span class="chain__label">The value chain we support</span>
-        <ul class="chain__row">
-          <li>Genetics</li>
-          <li>Ranch management</li>
-          <li>Processing</li>
-          <li>Value-added products</li>
-          <li>Market &amp; culinary</li>
+        <div class="chain__head">
+          <span class="chain__label">The value chain we support</span>
+          <span class="chain__hint">Click a step to see how we help</span>
+        </div>
+        <ul class="chain__row" aria-label="Value chain">
+          <li><button type="button" class="chain__step is-active" data-step="0" aria-pressed="true">Genetics</button></li>
+          <li><button type="button" class="chain__step" data-step="1" aria-pressed="false">Ranch management</button></li>
+          <li><button type="button" class="chain__step" data-step="2" aria-pressed="false">Processing</button></li>
+          <li><button type="button" class="chain__step" data-step="3" aria-pressed="false">Value-added products</button></li>
+          <li><button type="button" class="chain__step" data-step="4" aria-pressed="false">Market &amp; culinary</button></li>
         </ul>
+        <div class="chain__panel" aria-live="polite">
+          <p class="chain__desc is-active" data-step="0">We source elite U.S. genetics and set up artificial-insemination and embryo-transfer programs, training local vets and technicians so herds improve in fertility, quality, and productivity.</p>
+          <p class="chain__desc" data-step="1">We advise on regenerative grazing, forage, and feeding programs, and train producers in low-stress cattle handling, to raise productivity, soil health, and animal welfare.</p>
+          <p class="chain__desc" data-step="2">We help plan, design, and cost meat-processing facilities and train butchers and staff on carcass utilization, so more of each animal becomes quality product.</p>
+          <p class="chain__desc" data-step="3">We help turn the whole animal into value, from organ meats and tallow to sausage, jerky, and specialty cuts, so producers capture more from every head.</p>
+          <p class="chain__desc" data-step="4">We train chefs and educate consumers, with cooking demonstrations and market-development initiatives that grow demand for quality, well-prepared beef.</p>
+        </div>
       </div>
       <div class="gallery" aria-label="From the field">
         <a href="assets/images/gallery/cattle-herd-green-pasture-texas.webp" target="_blank" rel="noopener"><img src="assets/images/gallery/cattle-herd-green-pasture-texas.webp" alt="A herd of cattle on lush green pasture" loading="lazy"></a>

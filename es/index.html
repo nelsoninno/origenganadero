@@ -166,7 +166,7 @@
       <img class="hero-logo" src="../assets/images/logos/og-logo-mix-cream.svg" alt="Logo de Origen Ganadero" fetchpriority="high">
       <span class="eyebrow">El Salvador · Ganadería</span>
       <h1>Una ganadería más fuerte para una <span class="accent">nación</span> más fuerte.</h1>
-      <p class="hero__sub">Conectamos a los ganaderos, las instituciones y los aliados estratégicos de El Salvador con genética de clase mundial, profunda experiencia sectorial y liderazgo de programas experimentado para impulsar la transformación de una industria ganadera productiva, rentable y resiliente.</p>
+      <p class="hero__sub">Conectamos a los ganaderos, las instituciones y los aliados estratégicos de El Salvador con genética de clase mundial, profunda experiencia sectorial y liderazgo de programas experimentado para ayudar a transformar la industria ganadera del país en una más productiva, rentable y resiliente.</p>
       <div class="hero__cta">
         <a class="btn btn--primary" href="#connect">Conectemos <span class="arrow">→</span></a>
         <a class="btn btn--ghost" href="#what">Qué hacemos</a>
@@ -367,14 +367,24 @@
         </div>
       </div>
       <div class="chain reveal">
-        <span class="chain__label">La cadena de valor que apoyamos</span>
-        <ul class="chain__row">
-          <li>Genética</li>
-          <li>Manejo del rancho</li>
-          <li>Procesamiento</li>
-          <li>Productos de valor agregado</li>
-          <li>Mercado y gastronomía</li>
+        <div class="chain__head">
+          <span class="chain__label">La cadena de valor que apoyamos</span>
+          <span class="chain__hint">Haz clic en un paso para ver cómo ayudamos</span>
+        </div>
+        <ul class="chain__row" aria-label="Cadena de valor">
+          <li><button type="button" class="chain__step is-active" data-step="0" aria-pressed="true">Genética</button></li>
+          <li><button type="button" class="chain__step" data-step="1" aria-pressed="false">Manejo del rancho</button></li>
+          <li><button type="button" class="chain__step" data-step="2" aria-pressed="false">Procesamiento</button></li>
+          <li><button type="button" class="chain__step" data-step="3" aria-pressed="false">Productos de valor agregado</button></li>
+          <li><button type="button" class="chain__step" data-step="4" aria-pressed="false">Mercado y gastronomía</button></li>
         </ul>
+        <div class="chain__panel" aria-live="polite">
+          <p class="chain__desc is-active" data-step="0">Traemos genética élite de EE. UU. y programas de inseminación artificial y transferencia de embriones, y capacitamos a veterinarios y técnicos locales para que los hatos mejoren en fertilidad, calidad y productividad.</p>
+          <p class="chain__desc" data-step="1">Asesoramos en pastoreo regenerativo, forrajes y alimentación, y capacitamos a los productores en manejo de bajo estrés, para elevar la productividad, la salud del suelo y el bienestar animal.</p>
+          <p class="chain__desc" data-step="2">Ayudamos a planificar, diseñar y presupuestar plantas de procesamiento y capacitamos al personal en aprovechamiento de la canal, para que más de cada animal se convierta en producto de calidad.</p>
+          <p class="chain__desc" data-step="3">Ayudamos a aprovechar todo el animal, desde vísceras y sebo hasta embutidos, jerky y cortes especiales, para que los productores capturen más valor de cada cabeza.</p>
+          <p class="chain__desc" data-step="4">Capacitamos a chefs y educamos a los consumidores, con demostraciones de cocina e iniciativas de desarrollo de mercado que aumentan la demanda de carne de calidad.</p>
+        </div>
       </div>
       <div class="gallery" aria-label="Desde el campo">
         <a href="../assets/images/gallery/cattle-herd-green-pasture-texas.webp" target="_blank" rel="noopener"><img src="../assets/images/gallery/cattle-herd-green-pasture-texas.webp" alt="Un hato de ganado en pastura verde" loading="lazy"></a>
