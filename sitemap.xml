@@ -23,6 +23,26 @@
   </url>
 
   <url>
+    <loc>https://origenganadero.com/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://origenganadero.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://origenganadero.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://origenganadero.com/faq/"/>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://origenganadero.com/es/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://origenganadero.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://origenganadero.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://origenganadero.com/faq/"/>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://origenganadero.com/llms.txt</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
