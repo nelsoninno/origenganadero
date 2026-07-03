@@ -1,6 +1,6 @@
 # Origen Ganadero — Full Profile
 
-> Origen Ganadero is an El Salvador based company rebuilding the country's cattle industry. It connects ranchers, institutions, and partners with elite genetics, technical expertise, and project leadership to build a cattle industry that is productive, profitable, and resilient. Co-founded by Andrea Hernández Tobar and Tom Taber.
+> Origen Ganadero is an El Salvador based company rebuilding the country's cattle industry. It connects ranchers, institutions, and strategic partners with world-class genetics, deep industry expertise, and experienced program leadership to build a cattle industry that is productive, profitable, and resilient. Co-founded by Andrea Hernández Tobar and Tom Taber (styled Tomás Taber on the Spanish site). Works in partnership with El Salvador's Ministry of Agriculture (Ministerio de Agricultura y Ganadería, MAG).
 
 ## Mission
 El Salvador imports most of the meat it consumes. A once-strong cattle sector was decimated by decades of hardship. Origen Ganadero exists to rebuild it, now, while the country is in a period of national rebirth. The work rests on three principles:
@@ -9,13 +9,22 @@ El Salvador imports most of the meat it consumes. A once-strong cattle sector wa
 - Profitable: producers are treated as businesses, not beneficiaries, so the work pays for itself and lasts.
 - Resilient: a country that can feed itself stands on its own. Food security is national security.
 
-## What Origen Ganadero does
-Origen Ganadero is a connector and facilitator for the whole cattle industry. Its core activities:
+## What Origen Ganadero does — the value chain
+Origen Ganadero is a connector and facilitator for the whole cattle industry, and supports the full value chain:
 
-1. Elite genetics. The company brings proven cattle genetics to El Salvador, from breeding straws to live stock, selecting bloodlines that thrive in a tropical climate so a herd can improve in a few seasons rather than a generation.
-2. Technical assistance and training. Working alongside the Ministry of Agriculture and local ranchers, the company shares best practice in breeding, nutrition, and regenerative grazing, and trains Salvadorans to lead the work themselves.
-3. Project leadership and partnerships. The company organizes the people, institutions, and resources a serious cattle project needs, and sees it through from the first meeting to delivery.
-4. Toward national supply. The company is helping lay the groundwork for the processing and infrastructure El Salvador needs to feed itself well, step by step.
+1. Genetics and reproduction. The company brings proven U.S. cattle genetics to El Salvador, from breeding straws to live stock, and runs artificial-insemination and embryo-transfer programs, selecting bloodlines that thrive in a tropical climate so a herd can improve in a few seasons rather than a generation. It trains local veterinarians and technicians to run the programs.
+2. Ranch management. The company advises on regenerative grazing, forage and feeding programs, and low-stress cattle handling, raising productivity, soil health, and animal welfare.
+3. Processing. The company helps plan, design, and cost meat-processing facilities and trains butchers and staff in carcass utilization, so more of each animal becomes quality product.
+4. Value-added products. The company helps turn the whole animal into value, from organ meats and tallow to sausage, jerky, and specialty cuts, so producers capture more from every head.
+5. Market and culinary development. The company trains chefs, educates consumers, and runs cooking demonstrations and market-development initiatives that grow demand for quality, well-prepared beef.
+
+Underpinning all five: technical assistance and training delivered alongside the Ministry of Agriculture, and project leadership and partnerships that organize the people, institutions, and resources a serious cattle project needs, from the first meeting to delivery.
+
+## Problems Origen Ganadero solves, and how
+- Low productivity, low fertility, and Brahman-dominant, often inbred genetics with low calf birth weights. Solution: elite imported genetics with artificial insemination and embryo transfer, adapted to a tropical climate.
+- Ranchers without access to modern breeding, nutrition, and grazing know-how. Solution: technical assistance and training, delivered with the Ministry of Agriculture and reaching ranchers through the company's network.
+- Little local processing and low value captured per animal. Solution: help planning, designing, and costing processing facilities, plus value-added, whole-animal products.
+- Dependence on imported beef and weak domestic demand. Solution: market and culinary development, moving El Salvador toward feeding itself with high-quality domestic beef.
 
 ## What Origen Ganadero does not do
 - It does not seek to be the face of the sector. It positions itself as a humble facilitator and catalyst, in service to its partners and to the country.
@@ -32,12 +41,12 @@ Origen Ganadero is a connector and facilitator for the whole cattle industry. It
 ### Andrea Hernández Tobar — Co-founder
 Born in El Salvador and back home after roughly two decades abroad, Andrea spent some twenty years leading international development projects across Latin America, Africa, and the Middle East. This included directing agriculture and water programs in Ethiopia, working hand in hand with rural ranchers in market-based development. She brings rigorous project leadership and a producer-as-business philosophy: treat producers as clients who need technical assistance, not as beneficiaries, and run everything as a real business.
 
-### Tom Taber — Co-founder
+### Tom Taber (Tomás Taber in Spanish) — Co-founder
 A native Texan from a ranching family, Tom spent over a decade building enterprise technology, rising to the C-suite and launching the fiber-optics division that outlived the company that started it. He came to the cattle world through a conviction about real food, sound money, and self-reliance, and now brings the network, the genetics connections, and the builder's drive to help make El Salvador's beef among the best anywhere.
 
 ## Roadmap
 - Today: first elite cattle brought to El Salvador as proof of capability; working directly with the Ministry of Agriculture; company established with team and network in place.
-- Next: an artificial-insemination program to spread superior genetics nationwide; training and technical assistance for ranchers across the country; groundwork for local processing and infrastructure.
+- Next: an artificial-insemination and embryo-transfer program to spread superior genetics nationwide; training and technical assistance for ranchers across the country; groundwork for local processing and infrastructure.
 - Vision: a self-sufficient El Salvador nourished by its own land; Salvadoran beef among the highest quality in the Americas; a productive, profitable, resilient industry that strengthens the nation.
 
 ## Values
@@ -45,11 +54,14 @@ Origen Ganadero is built on the values of sound money, freedom, and self-soverei
 
 ## Frequently asked questions
 - What is Origen Ganadero? An El Salvador based company rebuilding the national cattle industry as a connector and facilitator, in partnership with the Ministry of Agriculture.
-- What does it do? Imports proven genetics, provides technical assistance and training, and leads partnerships and projects to build a productive, profitable, resilient herd.
+- What services does it offer? Genetics and reproduction (elite genetics, artificial insemination, embryo transfer); ranch management and regenerative grazing; meat processing; value-added, whole-animal products; and market and culinary development.
+- How can El Salvador improve its cattle genetics and productivity? By introducing proven genetics and modern reproduction: elite U.S. bloodlines adapted to a tropical climate, with artificial insemination and embryo transfer, so a herd improves within a few seasons.
+- Who provides cattle genetics and artificial insemination in El Salvador? Origen Ganadero, working alongside the Ministry of Agriculture and training local vets and technicians.
 - Where do the cattle and genetics come from? Proven bloodlines and breeding stock from the United States, primarily Texas, chosen for a tropical climate.
+- Does it work with the Ministry of Agriculture? Yes, as a founding partner.
 - Who does it work with? The Ministry of Agriculture, returning Salvadoran landowners, investors and partners, and ranchers across the country.
 - What languages does it work in? Spanish and English.
-- How can I get involved? Use the "Connect with us" form on the website to share who you are and what you are interested in.
+- How can I get involved, invest, or partner? Use the "Connect with us" form on the website to share who you are and what you are interested in, or email hola@origenganadero.com.
 
 ## Contact and links
 - Website (English): https://origenganadero.com/

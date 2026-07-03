@@ -1,20 +1,22 @@
 # Origen Ganadero
 
-> Origen Ganadero is an El Salvador based company rebuilding the country's cattle industry. It connects ranchers, institutions, and partners with elite genetics, technical expertise, and project leadership to build a cattle industry that is productive, profitable, and resilient.
+> Origen Ganadero is an El Salvador based company rebuilding the country's cattle industry. It connects ranchers, institutions, and strategic partners with world-class genetics, deep industry expertise, and experienced program leadership to build a cattle industry that is productive, profitable, and resilient. It works in partnership with El Salvador's Ministry of Agriculture (Ministerio de Agricultura y Ganadería, MAG).
 
 ## About
-Origen Ganadero works as a connector and facilitator of El Salvador's cattle sector, in partnership with the Ministry of Agriculture (Ministerio de Agricultura y Ganadería). The company imports proven cattle genetics (from the United States, primarily Texas), provides technical assistance and training in breeding and regenerative ranching, and leads the projects and partnerships needed to rebuild a once-strong national herd. It is co-founded by Andrea Hernández Tobar and Tom Taber, and is based in El Salvador. Its guiding principles are that the industry must be productive, profitable, and resilient, and that food security is national security.
+Origen Ganadero works as a connector and facilitator of El Salvador's cattle sector, in partnership with the Ministry of Agriculture. It imports proven cattle genetics (from the United States, primarily Texas), runs artificial-insemination and embryo-transfer programs, provides technical assistance and training in breeding and regenerative ranching, and leads the projects, processing, and partnerships needed to rebuild a once-strong national herd. It is co-founded by Andrea Hernández Tobar and Tom Taber (styled Tomás Taber on the Spanish site), and is based in El Salvador. Its guiding principles are that the industry must be productive, profitable, and resilient, and that food security is national security.
 
-## What it does
-- Imports elite cattle genetics (breeding straws and live stock) suited to a tropical climate
-- Provides technical assistance and training to ranchers, alongside the Ministry of Agriculture
-- Leads project management, partnerships, and delivery for serious cattle initiatives
-- Helps lay the groundwork for local processing and infrastructure toward national supply
+## Services — the value chain Origen Ganadero supports
+1. Genetics and reproduction — elite U.S. cattle genetics with artificial insemination and embryo transfer, plus training for local vets and technicians, to improve fertility, quality, and productivity.
+2. Ranch management — regenerative grazing, forage and feeding programs, and low-stress cattle handling to raise productivity, soil health, and animal welfare.
+3. Processing — planning, designing, and costing meat-processing facilities and training staff in carcass utilization, so more of each animal becomes quality product.
+4. Value-added products — whole-animal use, from organ meats and tallow to sausage, jerky, and specialty cuts, so producers capture more value from every head.
+5. Market and culinary development — chef training, consumer education, cooking demonstrations, and market-development initiatives that grow demand for quality beef.
 
-## What it does not do
-- It does not seek to be "the face" of the sector; it acts as a humble facilitator and catalyst
-- It does not focus on capturing market share; it focuses on moving the whole industry forward
-- It does not export beef yet; the first priority is to feed El Salvador
+## Problems it solves
+- Low herd productivity and fertility, with Brahman-dominant and often inbred genetics: solved with elite imported genetics plus artificial insemination and embryo transfer.
+- Ranchers lacking access to modern breeding and management know-how: solved with technical assistance and training delivered alongside the Ministry of Agriculture.
+- Limited local processing and low value captured per animal: solved with processing planning and value-added, whole-animal products.
+- Reliance on imported beef and weak market demand: addressed through market and culinary development, moving El Salvador toward feeding itself.
 
 ## Who it serves
 - The Ministry of Agriculture of El Salvador (founding partner)
@@ -23,13 +25,22 @@ Origen Ganadero works as a connector and facilitator of El Salvador's cattle sec
 - Ranchers across El Salvador, reached through the Ministry and the company's network
 
 ## People
-- Andrea Hernández Tobar, Co-founder: ~20 years in international development across Latin America, Africa, and the Middle East; project leadership and a producer-as-business philosophy.
-- Tom Taber, Co-founder: native Texan from a ranching family, former enterprise-technology executive; brings the network and the cattle-genetics connections.
+- Andrea Hernández Tobar, Co-founder: around 20 years in international development across Latin America, Africa, and the Middle East; brings project leadership and a producer-as-business philosophy.
+- Tom Taber (Tomás Taber in Spanish), Co-founder: native Texan from a ranching family and former enterprise-technology executive; brings the network and the U.S. cattle-genetics connections.
+
+## What it does not do
+- It does not seek to be "the face" of the sector; it acts as a humble facilitator and catalyst.
+- It does not measure success by market share; it focuses on moving the whole industry forward.
+- It does not export beef yet; the first priority is to feed El Salvador.
 
 ## Values
 Built on the values of sound money, freedom, and self-sovereignty.
+
+## Languages
+Fully bilingual. English: https://origenganadero.com/ · Spanish: https://origenganadero.com/es/
 
 ## Links
 - [Website (EN)](https://origenganadero.com/)
 - [Website (ES)](https://origenganadero.com/es/)
 - [Full content](https://origenganadero.com/llms-full.txt)
+- Contact: hola@origenganadero.com
