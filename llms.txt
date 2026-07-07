@@ -5,12 +5,12 @@
 ## About
 Origen Ganadero works as a connector and facilitator of El Salvador's cattle sector, in partnership with the Ministry of Agriculture. It imports proven cattle genetics (from the United States, primarily Texas), runs artificial-insemination and embryo-transfer programs, provides technical assistance and training in breeding and regenerative ranching, and leads the projects, processing, and partnerships needed to rebuild a once-strong national herd. It is co-founded by Andrea Hernández Tobar and Tom Taber (styled Tomás Taber on the Spanish site), and is based in El Salvador. Its guiding principles are that the industry must be productive, profitable, and resilient, and that food security is national security.
 
-## Services — the value chain Origen Ganadero supports
-1. Genetics and reproduction — elite U.S. cattle genetics with artificial insemination and embryo transfer, plus training for local vets and technicians, to improve fertility, quality, and productivity.
-2. Ranch management — regenerative grazing, forage and feeding programs, and low-stress cattle handling to raise productivity, soil health, and animal welfare.
-3. Processing — planning, designing, and costing meat-processing facilities and training staff in carcass utilization, so more of each animal becomes quality product.
-4. Value-added products — whole-animal use, from organ meats and tallow to sausage, jerky, and specialty cuts, so producers capture more value from every head.
-5. Market and culinary development — chef training, consumer education, cooking demonstrations, and market-development initiatives that grow demand for quality beef.
+## Services: the value chain Origen Ganadero supports
+1. Genetics and reproduction: elite U.S. cattle genetics with artificial insemination and embryo transfer, plus training for local vets and technicians, to improve fertility, quality, and productivity.
+2. Ranch management: regenerative grazing, forage and feeding programs, and low-stress cattle handling to raise productivity, soil health, and animal welfare.
+3. Processing: planning, designing, and costing meat-processing facilities and training staff in carcass utilization, so more of each animal becomes quality product.
+4. Value-added products: whole-animal use, from organ meats and tallow to sausage, jerky, and specialty cuts, so producers capture more value from every head.
+5. Market and culinary development: chef training, consumer education, cooking demonstrations, and market-development initiatives that grow demand for quality beef.
 
 ## Problems it solves
 - Low herd productivity and fertility, with Brahman-dominant and often inbred genetics: solved with elite imported genetics plus artificial insemination and embryo transfer.

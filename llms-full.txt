@@ -1,4 +1,4 @@
-# Origen Ganadero — Full Profile
+# Origen Ganadero: Full Profile
 
 > Origen Ganadero is an El Salvador based company rebuilding the country's cattle industry. It connects ranchers, institutions, and strategic partners with world-class genetics, deep industry expertise, and experienced program leadership to build a cattle industry that is productive, profitable, and resilient. Co-founded by Andrea Hernández Tobar and Tom Taber (styled Tomás Taber on the Spanish site). Works in partnership with El Salvador's Ministry of Agriculture (Ministerio de Agricultura y Ganadería, MAG).
 
@@ -9,7 +9,7 @@ El Salvador imports most of the meat it consumes. A once-strong cattle sector wa
 - Profitable: producers are treated as businesses, not beneficiaries, so the work pays for itself and lasts.
 - Resilient: a country that can feed itself stands on its own. Food security is national security.
 
-## What Origen Ganadero does — the value chain
+## What Origen Ganadero does: the value chain
 Origen Ganadero is a connector and facilitator for the whole cattle industry, and supports the full value chain:
 
 1. Genetics and reproduction. The company brings proven U.S. cattle genetics to El Salvador, from breeding straws to live stock, and runs artificial-insemination and embryo-transfer programs, selecting bloodlines that thrive in a tropical climate so a herd can improve in a few seasons rather than a generation. It trains local veterinarians and technicians to run the programs.
@@ -38,10 +38,10 @@ Underpinning all five: technical assistance and training delivered alongside the
 - Ranchers across El Salvador, reached through the Ministry and the company's network, who gain access to better genetics and practice.
 
 ## Founders
-### Andrea Hernández Tobar — Co-founder
+### Andrea Hernández Tobar: Co-founder
 Born in El Salvador and back home after roughly two decades abroad, Andrea spent some twenty years leading international development projects across Latin America, Africa, and the Middle East. This included directing agriculture and water programs in Ethiopia, working hand in hand with rural ranchers in market-based development. She brings rigorous project leadership and a producer-as-business philosophy: treat producers as clients who need technical assistance, not as beneficiaries, and run everything as a real business.
 
-### Tom Taber (Tomás Taber in Spanish) — Co-founder
+### Tom Taber (Tomás Taber in Spanish): Co-founder
 A native Texan from a ranching family, Tom spent over a decade building enterprise technology, rising to the C-suite and launching the fiber-optics division that outlived the company that started it. He came to the cattle world through a conviction about real food, sound money, and self-reliance, and now brings the network, the genetics connections, and the builder's drive to help make El Salvador's beef among the best anywhere.
 
 ## Roadmap

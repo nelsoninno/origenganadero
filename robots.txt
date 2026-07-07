@@ -1,5 +1,5 @@
 # robots.txt for origenganadero.com
-# Every page is open and indexable — by search engines and AI assistants alike.
+# Every page is open and indexable, by search engines and AI assistants alike.
 
 User-agent: *
 Allow: /
@@ -21,10 +21,6 @@ Allow: /
 User-agent: Claude-User
 Allow: /
 User-agent: Claude-SearchBot
-Allow: /
-User-agent: anthropic-ai
-Allow: /
-User-agent: Claude-Web
 Allow: /
 
 # Google (AI surfaces)
