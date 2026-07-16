@@ -93,8 +93,8 @@ document.querySelectorAll('.compare').forEach(function (c) {
 // Leader lines: fan from each tag to a point on the cow
 (function () {
   var SVGNS = 'http://www.w3.org/2000/svg';
-  var AR = [[58, 37], [62, 48], [57, 58], [54, 65], [62, 72], [59, 81], [60, 90]];
-  var ES = [[42, 46], [42, 56], [43, 66], [45, 76], [46, 86]];
+  var AR = [[58, 37], [56, 48], [57, 58], [54, 65], [62, 72], [59, 81], [60, 90]];
+  var ES = [[42, 46], [45, 50], [43, 66], [45, 76], [46, 86]];
   function draw() {
     document.querySelectorAll('.compare').forEach(function (c) {
       var frame = c.querySelector('.compare__frame');
