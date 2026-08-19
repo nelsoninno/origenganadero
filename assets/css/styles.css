@@ -83,6 +83,7 @@ section{position:relative}
 }
 .hero__inner{position:relative;z-index:1;width:100%;display:grid;grid-template-columns:1fr auto;column-gap:clamp(2rem,5vw,4.5rem);align-items:center}
 .hero__title{
+  font-family:var(--font-display);font-weight:600;line-height:1.08;letter-spacing:-.01em;
   font-size:clamp(2.5rem,6.4vw,4.7rem);max-width:16ch;margin:.4rem 0 1.3rem;
   color:#fff;text-wrap:balance;
 }
